@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Khandelwal</h1>
-<h3 align="center">A final-year B.Tech Computer Science and Engineering student at NIMS University, Jaipur, graduating in 2025. I am passionate about data science and its potential to solve real-world problems with a solid foundation in Python and SQL.</h3>
+<h3 align="center">A recent B.Tech Computer Science and Engineering passout from NIMS University, Jaipur, graduated in 2025. I am passionate about data science and its potential to solve real-world problems with a solid foundation in Python and SQL.</h3>
 <br>
 
 <img align="right"  alt="Coding" width="400" src="https://media0.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif?cid=6c09b9523zz05ruar8rpzpvv96qbxdbr7u60wfxdy3jdcuim&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
