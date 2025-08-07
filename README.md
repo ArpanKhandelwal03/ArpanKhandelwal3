@@ -4,7 +4,7 @@
 
 <img align="right"  alt="Coding" width="400" src="https://media0.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif?cid=6c09b9523zz05ruar8rpzpvv96qbxdbr7u60wfxdy3jdcuim&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpankhandelwal3&label=Profile%20views&color=0e75b6&style=flat" alt="arpankhandelwal3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpankhandelwal03&label=Profile%20views&color=0e75b6&style=flat" alt="arpankhandelwal03" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -16,7 +16,7 @@
 <a href="https://instagram.com/khandelwal_arpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khandelwal_arpan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/funny_dream_45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="funny_dream_45" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khandelwal_arpan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khandelwal_arpan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arpan__2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpan__2004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arpankhandelwal03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arpankhandelwal03" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
